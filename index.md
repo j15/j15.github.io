@@ -1,8 +1,7 @@
 ---
 layout: page
 title: iOSDevLog!
-tagline:
-author: iOSDevLog
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
